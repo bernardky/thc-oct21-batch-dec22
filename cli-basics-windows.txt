@@ -1,0 +1,36 @@
+change directory
+cd 
+
+exit dir 
+cd ..
+
+cd autocomplete
+cd 'tab'
+
+list out all directories
+ls or dir
+
+clear all 
+cls
+
+cmd history
+'up arrow'
+
+open file
+select the file and hit 'enter'
+
+create new directory
+mkdir (file name)
+
+rename file
+mv (prev file name) (new file name)
+
+create new file
+touch
+
+delete file/directory
+rm
+rm-r -->(remove everything)
+
+open file in vscode
+code .
